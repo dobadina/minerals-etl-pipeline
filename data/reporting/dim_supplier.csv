@@ -1,0 +1,112 @@
+supplier_key,supplier_id,supplier_name,phone_number
+1,003f9653,Eunoia Cimple Company,+2349057700000
+2,00d9ea6f,Duba - Hexa Company Limited,+2347033389662
+3,063039ad,David,+2348169281220
+4,09d01195,Azunnaya Nig.Ltd,+2348137511662
+5,0a302712,Samloss,+2348135714663
+6,108f6353,Josh,+2347038755646
+7,18b644b8,Optimal Base,+2348039206090
+8,19776492,True Success Communications Company,+2348030542875
+9,1a328046,Jovial,+2349048340415
+10,1ad6268d,Khad Haj,+2348065051131
+11,1b4da21f,Onisco Mining And Business Services,+2348155853256
+12,1d545600,David Nulo,+2348143387686
+13,1ed7cae3,Alameen,+2348105309977
+14,1f48261b,Kings Consult,+2347017735903
+15,204ef25f,Yak Solid Mineral Resources Ltd,+2348037045028
+16,235ba7d2,Josayin Global Resources Limited,+2349129991555
+17,24a50b00,Johnnyb Sequential Inl’T Ltd,+2348032748959
+18,26ad8704,Mmc,+2348111189811
+19,28d1b346,Castle Gem Ventures,+2348069204073
+20,2bd1bd94,Metaliqa Trading,+2348108380997
+21,30f0ca23,Umar-Doshiro Top Hill Unique Ventures,+2347047118273
+22,31bce4ad,Prince Kolade,+2348143946999
+23,352dbaaa,Aenon Mining,+2348084253301
+24,36209737,Morha Universal Services Ltd,+2348030542875
+25,37a26a76,Ibrahim,+2348100910393
+26,38afc73a,Mynes,+2347018888031
+27,39790787,Cetris Intl Resources,+2348137941035
+28,3bdff04d,Timadix Geomin Consult Nigeria Limited,+2348108033334
+29,4309df9a,Smcube Nig Ltd,+2348055440177
+30,43780ba7,De Great Gidado,+2348036666900
+31,467c12a3,Exclusive Meenaish,+2347034939396
+32,47cc72cb,Wom Agric Processing Ventures,+2347066786830
+33,48c7f39a,Mosaid Engineering,+2347069724980
+34,4a6e399a,Ydt,+2348037237820
+35,4c238b98,Sholly & Sons,+2348138097253
+36,4ca123ba,Bichi Mining,+2347039893695
+37,4f86893b,Afritech,+2348065266371
+38,54cbe717,Rukbok,+2347086335402
+39,5893298c,Kelechi Minerals,+2347037069243
+40,59acf042,Ibrahim,+2347061347045
+41,59bda3eb,Duro And Sons,+2348023138652
+42,5ac723e4,Abdulrahman Mohammed,+2348140600342
+43,5c2ac3ec,Mmc Limited,+2347080652875
+44,5fa70168,Abdulfitz Nig Ltd,+2348144622419
+45,659252cd,Mubarak,+2348143413132
+46,65b97693,Mr Kelvin,+2348063634589
+47,66c7a70d,Muhammed Budo,+2347047271144
+48,674e787d,Kabiru,+2347035966217
+49,6e0d3c38,Engr Tim,+2348136938100
+50,703bc84d,Usman,+2347047118273
+51,72947f49,Green Concept Global Enterprise,+2347062120097
+52,72beb1b0,Valuechain Investment Limited,+2348108033334
+53,76dba23a,Ahmed(Tope),+2347031459432
+54,794aecef,Mathew,+2348039326151
+55,7e1cb6a3,Epoch,+2348036604936
+56,7f423912,Scientist Global Investment,+2348160037282
+57,8780ce1e,Best Kamco Resources,+2348058168881
+58,897275c0,Hoolare Modern Global,+2347036636668
+59,89a7402a,Kc Lithium Ore,+2347066066802
+60,8ab2e26a,Saidu Baba Ahmed Ventures,+2347036636668
+61,8b03df1f,Alabama,+2347033973383
+62,8b6bb83d,Auriferous,+2348137941035
+63,91125cd7,Nex Metal,+2348026695114
+64,92124942,Supplier A,+2349013402896
+65,9340a169,Top Hills Unique Ventures,+2348034363782
+66,9b391ada,Adamrob International Investment Limited,+2348034280652
+67,9ccbdc46,Al-Kanza & Aljawhar Nig Ltd,+2348036449901
+68,a0925c82,Bein Muhammad,+2348065625822
+69,a44fd56d,Tope,+2347066786830
+70,a542d4ae,Spectra Minerals And Mining Exploration Ltd,
+71,a702a7af,Askimal,+2347035170373
+72,a7b7adca,Lanre,+2347068672655
+73,a943e9b8,Henry,
+74,a9768f17,Kayama Agro Aliedn,+2348036604936
+75,ad398029,Sholly & Co,+2348082504961
+76,b045ead7,Joseph,+2347037288050
+77,b2318d41,Aku,+2348136763900
+78,b5ded910,Al-Mainas,+2348037237820
+79,bcf532d9,Aryk Associates Nig Ltd,+2348062861501
+80,be5b4f23,Cuarzo Mines Global Limited,
+81,bf4b8690,Deyege,+2348066935356
+82,bf7118c6,Elois Agro-Allied Ltd.,+2348068484604
+83,c2f1466c,Nulo King Global Limited,+2348143387686
+84,c6d855dc,Bein Muhammad,+2348065625822
+85,c80d6d5e,Afritech,
+86,ccf2e5c4,Artech Mining And Services,+2348032174979
+87,cdf0d812,Fulltide Intergrated Services Limited,+2348060596680
+88,ce53d158,Bein Muhammad,+2348065625822
+89,cea05249,Fatonars Global Ltd,+2348110147077
+90,d536b7d7,Chibueze Job Venture,+2348089523782
+91,d748c73b,Bawwab,+2347068985817
+92,d88a9b2b,Umar Bala,+2348026824456
+93,d8b59501,Limasquare,+2347033901932
+94,d92bfba4,Alameen,+2348105309977
+95,d9ca06ab,Greenish Island Services,+2348069694093
+96,df3a7ff5,Alabama,+2347033973383
+97,e46f6a8c,M.K.T Nigeria Enterprises,+2349158062637
+98,e494bba4,Chris,+2349165258391
+99,e500a90a,Little Stars,+2348152022731
+100,e5da22fd,Salsala Intercontinental Resourses Ltd,+2347036575549
+101,eb57ea35,Alhaji Osinachi International Stones Limited,+2348022285677
+102,ec1505ea,Redmax Minerals Ltd,+2348039333306
+103,ec1730c4,Maitukunya Venture,+2347039893695
+104,ed6ca626,Ahmad Sani,+2347038991627
+105,f05d52e2,De Roq,+2349110448671
+106,f2ea226c,Mobile First,+2348068766087
+107,f88eea20,Sm2A2U,+2348168583424
+108,f9429908,Carrington,+2349036677377
+109,f96a1b67,Usman,+2348139612609
+110,f9fc0875,Hope Synergy Links Nig. Ltd,+2348036128998
+111,fb80b73b,Demilestone Ventures,+2347068672655

@@ -5,3 +5,4 @@ data/source/
 data/logs/ 
 *.duckdb 
 .env 
+data/minerals_etl_reporting.duckdb

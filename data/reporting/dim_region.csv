@@ -1,0 +1,38 @@
+region_key,location_id,state_name,region_name
+1,6a0gc983,Plateau,North Central
+2,6a1fb283,Fct,North Central
+3,6a2ok105,Ekiti,South West
+4,6a4aw327,Nasarawa,North Central
+5,6a6ie549,Benue,North Central
+6,6a8uq761,Kano,North West
+7,6affa694,Abia,South East
+8,6b1bd794,Adamawa,North East
+9,6b1hd094,Rivers,South South
+10,6b3pl216,Enugu,South East
+11,6b5bx438,Niger,North Central
+12,6b7jf650,Borno,North East
+13,6b9vr872,Katsina,North West
+14,6c0ws983,Kebbi,North West
+15,6c2ea105,Akwa Ibom,South South
+16,6c2ie105,Sokoto,North West
+17,6c4qm327,Gombe,North East
+18,6c6cy549,Ogun,South West
+19,6c8kg761,Cross River,South South
+20,6d1xt094,Kogi,North Central
+21,6d3fb216,Anambra,South East
+22,6d3jf216,Taraba,North East
+23,6d5rn438,Imo,South East
+24,6d7dz650,Ondo,South West
+25,6d9lh872,Delta,South South
+26,6e0mi983,Ebonyi,South East
+27,6e2yu105,Kwara,North Central
+28,6e4gc327,Bauchi,North East
+29,6e4kg327,Yobe,North East
+30,6e6so549,Jigawa,North West
+31,6e8ea761,Osun,South West
+32,6f1nj094,Edo,South South
+33,6f3zv216,Lagos,South West
+34,6f5hd438,Bayelsa,South South
+35,6f5lh438,Zamfara,North West
+36,6f7tp650,Kaduna,North West
+37,6f9fb872,Oyo,South West
